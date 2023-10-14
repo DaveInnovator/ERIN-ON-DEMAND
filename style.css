@@ -1,0 +1,908 @@
+* {
+    box-sizing: border-box;
+    /* max-width: 100%; */
+  
+}
+.main {
+    background-image: url(/shape.png);
+    background-position: 50% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.offcanvas-body a{
+    text-decoration: none;
+color: #C4AAA7;
+font-size: 1.5em;
+}
+
+#main {
+    background-color:  #F7F3EE;
+    height: 100vh;
+    width: 100%;
+}
+.offcanvas-body {
+    background-color: #F7F3EE;
+    height: 100vh;
+}
+.main-header h1{
+    color: #723830;
+    font-family: 'Sofia Sans', sans-serif;
+
+    font-size: 40px;
+    line-height: 48px;
+}
+.calli-text{
+    font-size: 20px;
+    line-height: 43px;
+    font-family:  'Calligraffitti', cursive;
+}
+.dropdown{
+    margin-left: 30%
+}
+.last_para{
+    font-size: 15px;
+    line-height: 24.7px;
+    letter-spacing: 0.7px;
+}
+.question {
+    color: #D9B178;
+    font-size: 1.7em;
+}
+.banner-image{
+    width: 80%;
+}
+.main-header{
+    width: 100%;
+}
+
+.menu{
+    margin-right: 10%;
+}
+.social_media_icon{
+    margin-top: 10%;
+}
+
+.social_media_icon img{
+width: 20%;
+}
+.main-link a{
+    text-decoration: none;
+    color: #D39230;
+    background-color: #FEFEFF;
+}
+.main-link {
+    text-decoration: none;
+    color: #D39230;
+    background-color: #FEFEFF;
+    padding: 3% 15%;
+    letter-spacing: 2px;
+
+    display: inline-block;
+}
+.dont {
+   width: 10%;
+}
+
+ #ytb {
+     /* margin-top: 40%;  */
+     height: 50vh; 
+}
+.ytb_rep {
+    width: 80%;
+}
+#ytb h1 {
+    color: #D7A68D;
+    font-family: 'Sofia Sans', sans-serif;
+font-size: 40px;
+line-height: 48px;
+} 
+
+
+#niche {
+    margin-top: 40%;
+    background-color: #F7F3EE;
+}
+
+.nich_header_text{
+    font-family: 'Sofia Sans', sans-serif
+    ;
+    font-size:40px;
+    color: #D7A68D; 
+}
+#niche p{
+    font-family:  'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 35.2px;
+    letter-spacing: 2.4px;
+}
+.bullseye {
+    width: 8%;
+    
+}
+
+.niche_list_head {
+    font-size: 30px;
+    font-family: 'Sofia Sans', sans-serif
+    ;
+    color:#476554;
+    /* display: none; */
+    background-color: #fff;border-radius: 10px;
+    padding: 5% 1%;
+    width:74%;
+}
+
+.left_list ul li {
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 50px;
+    letter-spacing: 0.2px;
+}
+.left_list ul li img {
+width: 4%;
+}
+
+.middle_list img{
+width: 50%;
+}
+.niche-link{
+    background-color: #D0A78D;
+    width: 70%;
+    padding: 2% 3% ;
+    display: inline-block;
+    border-radius: 5%;
+    margin-top: -10%;
+}
+.niche-link a {
+    text-decoration: none;
+    color: #fff;
+
+}
+
+.graphics img {
+width: 30%;
+}
+
+
+.sildes{
+    width: 100%;
+    height: 90vh;
+    background-color: #F7F3EE;
+   
+}
+.overall-container{
+    background-color: #A3B6BB;
+width: 150%;
+height: 70vh;   
+/* display: flex;
+justify-content: center;
+align-items: center; */background-image: url(/bluebackground.png)
+;
+background-position: center;
+
+}
+.inner-container  h1 {
+    font-size: 28px;
+    line-height: 33.6px;
+    color: #245255;
+}
+.inner-container
+{
+
+    background-color: #DBE0E0;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    height: 40vh;
+    padding: 3%;
+}
+.gif-image img{
+width: 25%;
+}
+.inner-container ul {
+    padding: 1%;
+    
+}
+.inner-container ul li {
+    font-family:'Poppins', sans-serif ;
+    font-size: 11px;
+    line-height: 22.6px;
+    letter-spacing: 1.8px;
+    list-style: none;
+text-align: center;
+}
+
+.cross {
+    width: 8%;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 4%;
+}
+
+.arrow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+aside {
+background-color: #E5D3C7;
+
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    height: 40vh;
+    padding: 3%;
+}
+aside h1 {
+    font-size: 28px;
+    line-height: 33.6px;
+    color:#723830;
+}
+aside  ul li {
+    font-family:'Poppins', sans-serif ;
+    font-size: 11px;
+    line-height: 22.6px;
+    letter-spacing: 1.8px;
+    list-style: none;
+text-align: center;
+}
+.to_this{
+    width: 20%;
+}
+.to-this-container{
+    margin-top: -20%;
+    margin-left: 30%;
+}
+
+.grr {
+    background-color: #D0A78D   ;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grr h1 {
+    font-family: 'Sofia Sans', sans-serif
+    ;
+    font-size: 40px;
+    color: #fff;
+    line-height: 48px;
+
+}
+.grr span {
+    font-family: 'Calligraffitti', cursive;
+    color: #000;
+    font-size: 30px;
+}
+.grr img {
+    width: 8%;
+    transform: rotate(90deg);
+    margin-top: 18%;
+  
+    margin-left: -20%;
+}
+.flagship-para {
+    font-family:  'Sofia Sans', sans-serif; font-size: 24px;
+}
+
+
+.flag {
+    display: grid;
+    grid-template-columns: 40% 30%;
+    background-image: url(/shape.png);
+background-color: rgb(247,242,239);  
+height: 103vh;
+width: 100%;  
+background-repeat: no-repeat;
+background-position: 100% 100%;
+
+}
+
+.flag a {
+    text-decoration: none;
+    color: #723830;
+    background-color: #fff;
+    padding: 3% 20%;
+    border-radius: 10px;
+}
+
+
+.enroll {
+    background-color:#fff ;
+}
+
+
+header p:nth-child(3){
+    font-family: 'Sofia Sans', sans-serif ;
+    color: #D0A68C;
+}
+
+header span {
+    font-family:  'Calligraffitti';
+    font-size: 30px;
+    color: #19191A;
+}
+.creator-container {
+display: grid;
+grid-template-columns: 40% 50%;
+margin-left: 10%;
+}
+
+.creator-container h2{
+font-family:  'Sofia Sans', sans-serif;
+font-size: 30px;
+}
+
+.creator-container p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+
+}
+
+.creator-container a {
+    text-decoration: none;
+    background: #723830;
+    color: #fff;
+    padding: 2% 15%;
+border-radius: 5px;
+}
+.brand-text {
+    margin-left: 20%;
+    margin-top: 7%;
+}
+.brand {
+    background-image: url(/erin_on_demand_ebrand_club.png);
+    background-repeat: no-repeat;
+    height: 90vh;
+    width: 100%;
+    background-size: contain;
+    background-position: 140% -20%;
+}
+
+.yellow-spot img {
+    width: 10%;
+    
+}
+
+.brand img {
+    width: 50%;
+    margin-top: 35%;
+}
+
+
+
+.info {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(247,242,239);
+    align-items: center;
+    width: 100%;
+    
+}
+
+.info-img img{
+    width: 100%;
+}
+.info-text img {
+    width: 22%;
+    margin-top:-6%;
+    margin-left: 10%
+}
+
+.info-text p {
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 20px;
+    color: #723830;
+}
+
+.info-text h2 {
+    color: #C8BAB5;
+    font-family: 'Sofia Sans', sans-serif ;
+    font-size: 50px;
+    margin-top: 5%;
+}
+.sub-text p{
+    font-size: 14px;
+    font-family:  'Poppins', sans-serif;
+  color: #19191A;
+  line-height: 190%;
+}
+
+.info a {
+    text-decoration: none;
+    font-size: 20px;
+   color: #C9BBB5;
+   font-family: 'Sofia Sans', sans-serif;
+   display: inline-block;
+   position: relative;
+}
+
+.info a::after {
+content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0%;
+    width: 100%;
+background-color: #C8BBB5;
+height: 3px;
+
+}
+
+.info a:hover {
+    color: #723830;
+    text-decoration: underline;
+}
+.info a {
+    margin-bottom: 2%;
+}
+
+.carr {
+    background-image: url(/bluebackground.png);
+    background-position: center;
+    background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  height: 50vh;
+}
+
+video {
+    width: 100%;
+}
+.video_text {
+    margin-top: -30%;
+    color: #fff;
+    text-align: left;
+    margin-left: 20%;
+}
+
+
+.top{
+    width: 100%;
+    height: 100vh;
+    background-color: #F6F3EF;
+   background-image: url(/top_3_open_erinondemand.png);
+   background-repeat: no-repeat;
+   background-size: 20%;
+   background-position: 5% 40%;
+}
+.top_text {
+   padding-top: 10%;
+}
+
+.top_text h3 {
+    font-family: 'Calligraffitti';
+}
+
+.top_text h1{
+    font-size: 104px;
+color: #C9BAB4;
+}
+
+
+.first_top_text {
+    font-size: 16px;
+    line-height: 28.8px;
+    letter-spacing: 3.2px;
+}
+.second_top_text{
+    font-size: 12px;
+    line-height: 26.4px;
+    letter-spacing: 0.6px;
+}
+.top_text a {
+    text-decoration: none;
+    color: #723830;
+    font-size: 16px;
+    letter-spacing: 2.4px;
+    background-color: #EFE4DF;
+    padding: 0.5% 2%;
+    border-radius: 10px;
+}
+
+.social {
+    background-color:#FBF8F6;
+    height: 100vh;
+    width: 100%;
+}
+.fave img {
+    width: 50%;
+}
+.social_links img {
+    width: 10%;
+}
+.refer a {
+    text-decoration: none;
+    color: #723830;
+}
+.last_link {
+    width: 100%;
+}
+.last_link img{
+width: 100%;
+}
+.newsletter h1 {
+    font-size: 24px;
+    letter-spacing: 5px;
+    font-family: 'Calligraffitti';
+}
+
+.newsletter p{
+    font-family:  'Poppins', sans-serif;
+    font-size: 16px;
+}
+
+.newsletter input {
+    border: none;
+    background: #F3F4F6;
+    padding: 1% 10%;
+}
+.newsletter input:hover {
+    border: 1px solid blue;
+}
+
+.newsletter::placeholder {
+    color: black;
+}
+
+
+
+@media screen and (max-width:920px) {
+    #main {
+        height: 110vh;
+    }
+    .main-header h1{
+       
+    
+        font-size: 20px;
+       
+    }
+    .first_para{
+        font-size: 12px;
+    }
+    .last_para {
+        font-size: 9px;
+        line-height: 10.7px;
+        letter-spacing: 0.4px;
+    }
+    .question {
+        color: #D9B178;
+        font-size: 1em;
+    }
+    .main-header {
+        width: 120%;
+    }
+    
+    .main-link {
+        text-decoration: none;
+        color: #D39230;
+        background-color: #FEFEFF;
+       
+        letter-spacing: 2px;
+    
+        display: inline-block;
+    }
+    #niche {
+       position: relative;
+       top: 100%;
+       
+    }
+    #right_list {
+        margin-top: 7%;
+    }
+    .overall-container{
+        background-color: #A3B6BB;
+    width: 100%;
+    height: 70vh;   
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */background-image: url(/bluebackground.png);
+
+    }
+    .sildes{
+        height: 100vh;
+    }
+aside h1 {
+    margin-top: 8%;
+}
+aside {
+    height: 50vh;
+}
+   aside ul {
+    margin-top: 10%;
+   }
+   .to_this{
+    margin-top: 10%;
+   }
+.grr {
+    margin-top: 50%;
+}
+
+
+.info {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(247,242,239);
+    align-items: center;
+    width: 100%;
+    height: 90vh;
+}
+
+.info-img img{
+    width: 100%;
+}
+.info-text img {
+    width: 22%;
+    margin-top:-6%;
+    margin-left: 10%
+}
+
+.info-text p {
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 10px;
+    color: #723830;
+}
+
+.info-text h2 {
+    color: #C8BAB5;
+    font-family: 'Sofia Sans', sans-serif ;
+    font-size: 30px;
+    margin-top: 5%;
+}
+.sub-text p{
+    font-size: 11px;
+    font-family:  'Poppins', sans-serif;
+  color: #19191A;
+  line-height: 190%;
+}
+
+.info a {
+    text-decoration: none;
+    font-size: 10px;
+   color: #C9BBB5;
+   font-family: 'Sofia Sans', sans-serif;
+   display: inline-block;
+   position: relative;
+}
+
+.info a::after {
+content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0%;
+    width: 100%;
+background-color: #C8BBB5;
+height: 3px;
+
+}
+
+.info a:hover {
+    color: #723830;
+    text-decoration: underline;
+}
+.brand-text {
+    margin-left: 20%;
+    margin-top: 7%;
+}
+.brand {
+    background-image: url(/erin_on_demand_ebrand_club.png);
+    background-repeat: no-repeat;
+    height: 90vh;
+    width: 100%;
+    background-size: contain;
+    background-position: 140% -4%;
+}
+.brand-text h2,p{
+    font-size: 10px;
+    
+}
+
+}
+
+
+
+@media screen and (max-width:466px) {
+
+    .main-header h1{
+       
+    
+        font-size: 30px;
+       padding-left: -10%;
+width: 130%;
+    }
+.navbar-brand img {
+    width: 5em;
+    
+}
+.dropdown{
+    margin-left: 6%;
+}
+
+
+#main {
+    height: 102vh;
+}
+
+.calli-text{
+    width: 150%;
+}
+
+.first_para{
+    font-size: 15px;
+}
+.last_para {
+    font-size: 13px;
+    width: 130%;
+    line-height: 15px;
+    letter-spacing: 0.4px;
+    
+}
+.question {
+    color: #D9B178;
+    font-size: 1em;
+    width: 110%;
+}
+.main-header {
+    width: 120%;
+}
+
+.main-link {
+    text-decoration: none;
+    color: #D39230;
+    background-color: #FEFEFF;
+   font-size: 10px;
+   padding: 1% 10%;
+   width: 100%;
+    /* letter-spacing: 2px;
+width: 100%;
+    display: inline-flex; */
+}
+.ytb_rep {
+    width: 100%;
+    padding-bottom: 50%;
+ 
+}
+
+
+
+#ytb h1{
+    font-size: 20px;
+}
+#niche {
+   position: relative;
+   top: 100%;
+   
+}
+#right_list {
+    margin-top: 7%;
+}
+.overall-container{
+    background-color: #A3B6BB;
+width: 100%;
+height: 70vh;   
+/* display: flex;
+justify-content: center;
+align-items: center; */background-image: url(/bluebackground.png);
+
+}
+.sildes{
+    height: 100vh;
+}
+aside h1 {
+margin-top: 8%;
+}
+aside {
+height: 50vh;
+}
+aside ul {
+margin-top: 10%;
+}
+.to_this{
+margin-top: 10%;
+}
+.grr {
+margin-top: 50%;
+}
+
+
+.info {
+display: flex;
+justify-content: space-around;
+background-color: rgb(247,242,239);
+align-items: center;
+width: 100%;
+height: 90vh;
+}
+
+.info-img img{
+width: 100%;
+}
+.info-text img {
+width: 22%;
+margin-top:-6%;
+margin-left: 10%
+}
+
+.info-text p {
+font-family: 'Sofia Sans', sans-serif;
+font-size: 10px;
+color: #723830;
+}
+
+.info-text h2 {
+color: #C8BAB5;
+font-family: 'Sofia Sans', sans-serif ;
+font-size: 30px;
+margin-top: 5%;
+}
+.sub-text p{
+font-size: 11px;
+font-family:  'Poppins', sans-serif;
+color: #19191A;
+line-height: 190%;
+}
+
+.info a {
+text-decoration: none;
+font-size: 10px;
+color: #C9BBB5;
+font-family: 'Sofia Sans', sans-serif;
+display: inline-block;
+position: relative;
+}
+
+.info a::after {
+content: "";
+position: absolute;
+left: 0;
+bottom: 0%;
+width: 100%;
+background-color: #C8BBB5;
+height: 3px;
+
+}
+
+.info a:hover {
+color: #723830;
+text-decoration: underline;
+}
+.brand-text {
+margin-left: 20%;
+margin-top: 7%;
+}
+.brand {
+background-image: url(/erin_on_demand_ebrand_club.png);
+background-repeat: no-repeat;
+height: 90vh;
+width: 100%;
+background-size: contain;
+background-position: 140% -4%;
+}
+.brand-text h2,p{
+font-size: 10px;
+
+}
+.inner-container {
+    height: 50vh;
+}
+
+.grr .text h1 {
+    font-size: 2em;
+}
+.flagship-para {
+    font-size: 1em;
+}
+
+
+.carr{
+    height: 60vh;
+}
+.video_text {
+    margin-top: -40%;
+    color: #fff;
+    text-align: left;
+    margin-left: 20%;
+}
+}
+
+    
